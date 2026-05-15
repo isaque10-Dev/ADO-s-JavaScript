@@ -1,24 +1,24 @@
 {
-  "name": "08-05",
+  "name": "ado-s-javascript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "module",
-  "dependencies": {
-    "prompt-sync": "^4.2.0"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/isaque10-Dev/ADO-s-JavaScript.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/isaque10-Dev/ADO-s-JavaScript/issues"
   },
-  "homepage": "https://github.com/isaque10-Dev/ADO-s-JavaScript#readme"
+  "homepage": "https://github.com/isaque10-Dev/ADO-s-JavaScript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
